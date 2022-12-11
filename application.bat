@@ -1,0 +1,1 @@
+wscript.exe \hide.vbs Files.bat
